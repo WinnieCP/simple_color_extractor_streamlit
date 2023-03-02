@@ -10,6 +10,9 @@ numpy = "*"
 streamlit = "*"
 matplotlib = "*"
 pandas = "*"
+pipfile = "*"
+plotly = "*"
+nbformat = "*"
 
 [dev-packages]
 ipykernel = "*"
