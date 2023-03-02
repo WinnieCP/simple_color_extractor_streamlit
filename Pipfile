@@ -13,6 +13,7 @@ pandas = "*"
 pipfile = "*"
 plotly = "*"
 nbformat = "*"
+importlib-resources = "*"
 
 [dev-packages]
 ipykernel = "*"
